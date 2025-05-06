@@ -1,0 +1,35 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node wuajaja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoosk/curso-node-js.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "nicoosk",
+    "midudev"
+  ],
+  "author": "Miguel Angel Duran Gracia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoosk/curso-node-js/issues"
+  },
+  "homepage": "https://github.com/nicoosk/curso-node-js#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
