@@ -1,0 +1,13 @@
+GET http://localhost:3000/pokemon/ditto
+
+### Para crear un nuevo Pokémon
+POST http://localhost:3000/pokemon
+Content-Type: application/json
+
+{
+    "name": "Pikachu",
+    "type": "Electric",
+    "moves": [
+        "Thunderbolt"
+    ]
+}

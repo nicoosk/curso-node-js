@@ -1,0 +1,15 @@
+{
+  "name": "clase-2",
+  "version": "1.0.0",
+  "main": "1.http.js",
+  "scripts": {
+    "dev": "nodemon 2.routing.js 1234"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

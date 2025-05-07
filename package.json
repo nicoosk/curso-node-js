@@ -1,0 +1,25 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Buen curso aquel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoosk/curso-node-js.git"
+  },
+  "author": "Miguel Angel Duran Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoosk/curso-node-js/issues"
+  },
+  "homepage": "https://github.com/nicoosk/curso-node-js#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
