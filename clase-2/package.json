@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "1.http.js",
   "scripts": {
-    "dev": "nodemon 2.routing.js 1234"
+    "dev": "nodemon 2.routing.js 1234",
+    "dev:3": "node --watch 3.express.js"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +12,8 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "5.1.0"
   }
 }
